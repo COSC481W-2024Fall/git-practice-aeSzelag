@@ -1,2 +1,4 @@
-﻿# git-practice-aeSzelag
-feature1
+# Git Practice
+
+## Feature1
+## Feature2
